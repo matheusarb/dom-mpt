@@ -1,2 +1,3 @@
-# dom-mpt
-Sample Project to practice DOM Manipulation
+# DOM-mpt
+
+Sample Project to practice Document Object Model Manipulation
