@@ -5,6 +5,7 @@
 
 // title.style.color = 'red';
 
+
 const ul = document.querySelector('ul');
 const li = document.createElement('li');
 
@@ -17,3 +18,6 @@ ul.append(li);
 
 
 li.innerText = 'Xmen';
+
+
+li.setAttribute('id', 'main-heading');
