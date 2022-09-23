@@ -1,11 +1,19 @@
 // DOM Manipulation
 
-// getElementById()
+// const title = document.querySelector('#main-heading');
+// console.log(title);
 
-// getElementByClassName()
+// title.style.color = 'red';
 
-// getElementByTagName()
+const ul = document.querySelector('ul');
+const li = document.createElement('li');
 
-// querySelector()
 
-// querySelectorAll()
+//adding elements
+ul.append(li);
+
+// modifying text
+
+
+
+li.innerText = 'Xmen';
